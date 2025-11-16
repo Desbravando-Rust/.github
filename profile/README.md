@@ -9,7 +9,7 @@
 
 ## Sobre o Livro
 
-<img src="imgs/capa.jpg" alt="Capa do Livro Desbravando Rust" width="200" align="right">
+<img src="imgs/capa.jpg" alt="Capa do Livro Desbravando Rust" width="120" align="left">
 
 **Desbravando Rust** é um guia técnico completo desenvolvido especialmente para desenvolvedores Python que desejam expandir suas habilidades para uma linguagem de alto desempenho e segurança: Rust.
 
@@ -17,7 +17,6 @@ Este livro oferece uma transição didática e prática, comparando conceitos, s
 
 Se você busca otimizar performance, explorar concorrência de forma segura ou simplesmente ampliar seu conjunto de habilidades técnicas, este livro foi feito para você.
 
----
 
 ## Para Quem é Este Livro
 
