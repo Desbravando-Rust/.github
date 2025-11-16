@@ -17,6 +17,8 @@ Este livro oferece uma transição didática e prática, comparando conceitos, s
 
 Se você busca otimizar performance, explorar concorrência de forma segura ou simplesmente ampliar seu conjunto de habilidades técnicas, este livro foi feito para você.
 
+---
+
 ## Para Quem é Este Livro
 
 - Desenvolvedores Python que desejam aprender Rust de forma prática e comparativa
