@@ -9,6 +9,8 @@
 
 ## Sobre o Livro
 
+<img src="imgs/capa.jpg" alt="Capa do Livro Desbravando Rust" width="200" align="right">
+
 **Desbravando Rust** é um guia técnico completo desenvolvido especialmente para desenvolvedores Python que desejam expandir suas habilidades para uma linguagem de alto desempenho e segurança: Rust.
 
 Este livro oferece uma transição didática e prática, comparando conceitos, sintaxes e melhores práticas entre Python e Rust, permitindo que você aproveite seu conhecimento existente enquanto domina uma das linguagens mais admiradas da atualidade.
@@ -157,7 +159,7 @@ O livro é organizado de forma progressiva, permitindo uma curva de aprendizado 
 - **Boas Práticas**: Padrões idiomáticos e convenções da comunidade Rust
 - **Progressivo**: Do Hello World até aplicações production-ready
 - **Exemplos**: Código-fonte de todos os exemplos do livro
-
+- **Em português**: Todo o livro está em português (pt-br)
 
 
 ## Adquira o Livro
